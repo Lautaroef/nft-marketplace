@@ -19,7 +19,6 @@ function WalletConnectComponent({ id, name, link, icon }: Props) {
               width={55}
               height={55}
               quality={100}
-              layout="fixed"
               loading="eager"
               style={{ objectFit: "cover" }}
               alt="wallet_connect_method_icon"

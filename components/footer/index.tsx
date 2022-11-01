@@ -24,7 +24,6 @@ function Footer() {
                     src={`/static/assets/images/f_logo_${theme}.png`}
                     width={133}
                     height={56}
-                    layout="fixed"
                     quality={100}
                     loading="eager"
                   />

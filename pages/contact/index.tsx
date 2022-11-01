@@ -1,4 +1,4 @@
-import Image from "next/image";
+import ResponsiveImage from "next/legacy/image";
 import styles from "./contact.module.sass";
 
 function ContactPage() {
@@ -8,7 +8,7 @@ function ContactPage() {
         <div className="row align-items-center">
           <div className="py-4  col-12 col-md-6">
             <div className={styles.img_container}>
-              <Image
+              <ResponsiveImage
                 width={100}
                 height={100}
                 quality={100}
@@ -16,7 +16,6 @@ function ContactPage() {
                 layout="responsive"
                 alt="contact_page_img"
                 src={"/static/assets/images/contact.png"}
-                style={{ objectFit: "cover", objectPosition: "center" }}
               />
             </div>
           </div>

@@ -44,7 +44,6 @@ function NFTCard({ id, fullWidth, live }: Props) {
                 width={45}
                 height={45}
                 quality={100}
-                layout="fixed"
                 alt="user-avatar"
                 src={`/static/assets/images/avatars/${id}.jpg`}
                 style={{ objectFit: "cover", objectPosition: "center" }}

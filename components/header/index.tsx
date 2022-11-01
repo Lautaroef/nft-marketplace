@@ -36,7 +36,6 @@ function Header() {
                     src={`/static/assets/images/logo_${theme}.png`}
                     width={133}
                     height={56}
-                    layout="fixed"
                     quality={100}
                     loading="eager"
                   />

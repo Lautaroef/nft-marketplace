@@ -64,10 +64,10 @@ function Hero() {
                 <Image
                   width={354}
                   height={588}
-                  layout="fixed"
                   src={"/static/assets/images/char.png"}
                   alt="toy"
                   loading="eager"
+                  priority
                 />
               </div>
             </div>
