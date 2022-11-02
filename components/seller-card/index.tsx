@@ -40,7 +40,7 @@ function SellerCard({ id, fullWidth, summary, own, seller }: Props) {
 
             {!summary && (
               <>
-                <span className={styles.seller_username}>@mmm066550</span>
+                <span className={styles.seller_username}>@jhondoe</span>
                 <span className={styles.seller_earn}>23.3 ETH</span>
               </>
             )}

@@ -120,7 +120,7 @@ function Footer() {
                 <li>
                   <a
                     className={styles.footer_social_link}
-                    href="https://github.com/mmm-066550"
+                    href="https://github.com/lautaroef"
                     target={"_blank"}
                     rel="noopener noreferrer"
                   >
@@ -130,7 +130,7 @@ function Footer() {
                 <li>
                   <a
                     className={styles.footer_social_link}
-                    href="https://www.linkedin.com/in/mmm066550"
+                    href="https://www.linkedin.com/in/lautaro-figueroa-it/"
                     target={"_blank"}
                     rel="noopener noreferrer"
                   >
@@ -140,18 +140,17 @@ function Footer() {
                 <li>
                   <a
                     className={styles.footer_social_link}
-                    href="https://www.fb.com/MOUSTAPHAMAHMMOUD"
+                    href="#"
                     target={"_blank"}
                     rel="noopener noreferrer"
                   >
                     <AiFillFacebook />
                   </a>
                 </li>
-
                 <li>
                   <a
                     className={styles.footer_social_link}
-                    href="https://www.upwork.com/freelancers/~01cfdc33084883523e"
+                    href="#"
                     target={"_blank"}
                     rel="noopener noreferrer"
                   >
@@ -161,23 +160,13 @@ function Footer() {
                 <li>
                   <a
                     className={styles.footer_social_link}
-                    href="https://www.instagram.com/moustapha.mm"
+                    href="#"
                     target={"_blank"}
                     rel="noopener noreferrer"
                   >
                     <AiFillInstagram />
                   </a>
                 </li>
-                {/* <li>
-                  <a
-                    className={styles.footer_social_link}
-                    href="/"
-                    target={"_blank"}
-                    rel="noopener noreferrer"
-                  >
-                    <BsTwitter />
-                  </a>
-                </li> */}
               </ul>
             </div>
           </div>

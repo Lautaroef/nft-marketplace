@@ -66,7 +66,7 @@ function CollectionCard({ id, fullWidth, cols }: Props) {
           <div className={styles.collection_author}>
             <span>created by</span>
             <Link href="/authors" className={styles.collection_author_link}>
-              Moustapha Mahmoud
+              Stephan Doe
             </Link>
           </div>
         </div>
